@@ -1,2 +1,2 @@
-# GCET-
+# GCET-COLLAGE
 website
